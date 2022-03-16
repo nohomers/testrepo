@@ -5,4 +5,4 @@ on:
   - workflow_dispatch
 jobs:
   call-workflow:
-    uses: lucascosti/actions-public-playground/blob/main/.github/workflows/my_workflow.yml@main
+    uses: lucascosti/actions-public-playground/.github/workflows/my_workflow.yml@main
